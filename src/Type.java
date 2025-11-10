@@ -1,0 +1,3 @@
+public enum Type {
+    MANAGER,DEVELOPER,TESTER,INTERN
+}
